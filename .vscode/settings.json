@@ -1,7 +1,11 @@
 {
     "files.associations": {
         "iostream": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "ios": "cpp",
+        "streambuf": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "diffEditor.wordWrap": "off"
